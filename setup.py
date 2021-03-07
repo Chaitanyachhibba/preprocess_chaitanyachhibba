@@ -5,10 +5,10 @@ with open('README.md', 'r') as file:
 
 
 setuptools.setup(
-	name = 'preprocess_kgptalkie', #this should be unique
-	version = '0.0.3',
-	author = 'Laxmi Kant',
-	author_email = 'udemy@kgptalkie.com',
+	name = 'preprocess_chaitanyachhibba',
+	version = '0.0.1',
+	author = 'chaitanya Chhibba',
+	author_email = 'chaitanya.chhibba@gmail.com',
 	description = 'This is preprocessing package',
 	long_description = long_description,
 	long_description_content_type = 'text/markdown',
